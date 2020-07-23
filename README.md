@@ -10,7 +10,7 @@ You need to install dependencies:
 * torch 1.5.1+cu101
 
 ## Run（[如果想要运行请先安装mmdet](https://github.com/open-mmlab/mmdetection/blob/master/docs/install.md)）
-``python /mmdetection/tools/train.py configs/cascade_rcnn_r50_fpn_1x_rubbish.py --gpus 1``
+``python /mmdetection/tools/train.py configs/cascade_rcnn_r50_fpn_1x_coco.py --gpus 1``
 
 ## Inference
 ``python inference.py``
