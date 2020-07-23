@@ -1,6 +1,8 @@
 # garbage_detection_classification
 [2020海华AI挑战赛·垃圾分类 赛道二:技术组赛道](https://www.biendata.xyz/competition/haihua_wastesorting_task2/data/)
 
+没有取得什么名次，仅仅是自己搞着玩，做的不好，还望见谅！
+
 ## Install dependencies
 You need to install dependencies:
 * [mmdet](https://github.com/open-mmlab/mmdetection) 2.1.0
