@@ -9,7 +9,7 @@ You need to install dependencies:
 * mmcv 0.6.2
 * torch 1.5.1+cu101
 
-## Run（如果想要运行请自行搜索mmdet如何安装）
+## Run（[如果想要运行请先安装mmdet](https://github.com/open-mmlab/mmdetection/blob/master/docs/install.md)）
 ``python /mmdetection/tools/train.py configs/cascade_rcnn_r50_fpn_1x_rubbish.py --gpus 1``
 
 ## Inference
